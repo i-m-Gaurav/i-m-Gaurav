@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning the MERN stack.
 - 📫 You can reach me at:
   - Email: indiagauravkumar@gmail.com
-  - LinkedIn: Gaurav Kumar
+  - LinkedIn: https://www.linkedin.com/in/i-am-gaurav/
 - ✨ I am a full-stack developer with expertise in MERN stack and Next.js.
