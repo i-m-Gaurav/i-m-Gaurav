@@ -1,4 +1,4 @@
-👋 Hi, I’m @i-m-Gaurav.
+👋 Hi, I’m @i-m-Gaurav. 
 👀 I’m interested in front-end development.
 🌱 I’m currently learning the MERN stack.
 📫 You can reach me at:
