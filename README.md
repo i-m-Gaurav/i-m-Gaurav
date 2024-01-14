@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on the University Android App<br>🌱 I’m currently learning NextJS<br>⚡ It's fun to code at night.
+🌱 I’m currently learning NextJS<br>⚡ It's fun to code at night.
 
 
 ## 🌐 Socials:
