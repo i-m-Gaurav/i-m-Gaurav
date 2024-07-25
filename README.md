@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [gaurav-self.vercel.app](gaurav-self.vercel.app)
+- 👨‍💻 All of my projects are available at [gaurav-self.vercel.app](https://gaurav-self.vercel.app)
 
 - 📝 I regularly write articles on GeeksForGeeks [Articles](https://www.geeksforgeeks.org/user/iamgaurav/contributions/)
 
