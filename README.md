@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <a href="https://twitter.com/_i_gaurav" target="blank"><img src="https://img.shields.io/twitter/follow/_i_gaurav?logo=twitter&style=for-the-badge" alt="_i_gaurav" /></a> </p>
-
 - 🔭 I’m currently working on Personal Project [GGVMart](ggvmart.vercel.app)
 
 - 🌱 I’m currently learning **NextJS**
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **indiagauravkumar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZarKY1BU9qMNgmzKd8oodPeefa0M9J_X/view?usp=sharing](https://drive.google.com/file/d/1ZarKY1BU9qMNgmzKd8oodPeefa0M9J_X/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZarKY1BU9qMNgmzKd8oodPeefa0M9J_X/view?usp=sharing](Resume)
 
 - ⚡ Fun fact **👀**
 
