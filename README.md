@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [gaurav-self.vercel.app](gaurav-self.vercel.app)
 
-- 📝 I regularly write articles on GeeksForGeeks [https://www.geeksforgeeks.org/user/iamgaurav/contributions/](https://www.geeksforgeeks.org/user/iamgaurav/contributions/)
+- 📝 I regularly write articles on GeeksForGeeks [Articles](https://www.geeksforgeeks.org/user/iamgaurav/contributions/)
 
 - 💬 Ask me about **NextJS, Shadcn, NextUI, Aceternity UI**
 
 - 📫 How to reach me **indiagauravkumar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZarKY1BU9qMNgmzKd8oodPeefa0M9J_X/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZarKY1BU9qMNgmzKd8oodPeefa0M9J_X/view?usp=sharing)
 
 - ⚡ Fun fact **👀**
 
